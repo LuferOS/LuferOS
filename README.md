@@ -1,76 +1,36 @@
 <div align="center">
-
-![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=header&text=◉MATRIZ%20LUFEROS%20INICIALIZADA◉&fontSize=28&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=◢%20PENTESTING%20×%20ANDROID%20MODDING%20×%20DEV%20◤&descAlignY=55&descSize=14)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=▰▰▰%20DESARROLLADOR%20%26%20CIBERSEGURIDAD%20▰▰▰;◈%20EXPERTO%20EN%20TERMUX%20%26%20KALI%20PURPLE%20◈;⟨%20CREADOR%20DE%20CORAZON_LUFEROS%20⟩;▣%20ARQUITECTO%20DE%20LUMICRAFT%20%26%20AURORA%20▣" alt="Cyber Typing"/>
+# ◉ LUFEROS SYSTEM ◉
+**Pentesting | Android Modding | Desarrollo**
+[![LuferOS Stats](https://github-readme-stats.vercel.app/api?username=LuferOS&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41)](https://github.com/LuferOS)
 </div>
-
+## ⚡ STACK TECNOLÓGICO PRINCIPAL
 <div align="center">
-<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 30px #00FF41;"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,python,nodejs,bash,android" width="300"/>
+<br/>
+<sub>Kali Purple • Python • Node.js • Bash • Android Modding</sub>
 </div>
+---
+## 🎯 REPOSITORIOS DESTACADOS
 
-<div align="center">
-[![Estadísticas Matrix](https://github-profile-trophy.vercel.app/?username=LuferOS&theme=matrix&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Followers,Stars)](https://github.com/LuferOS)
-</div>
+| 🏆 Proyecto | 📜 Descripción | 🔧 Stack |
+| :--- | :--- | :--- |
+| **[LumiBot]** | Bot de administración y moderación avanzada para el ecosistema de Lumicraft / Aurora. | `Node.js` `APIs` |
+| **[Dexoat Magisk]** | Módulo de optimización extrema y debloat profundo para Android. | `Bash` `Magisk/KernelSU` |
+| **[Force DNS]** | Herramienta de redireccionamiento y forzado de DNS a nivel de sistema Root. | `Bash` `Networking` |
+| **[Corazon_LuferOS]** | APK de telemetría biométrica compilada 100% desde Termux usando hardware nativo. | `Android API` `Termux` |
 
-## ⚡ ARSENAL CYBER & STACK TECNOLÓGICO
-
-<div align="center">
-
-### 🔥 SISTEMAS PRINCIPALES
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>
-<strong>KALI PURPLE & TERMUX</strong><br/>
-<sub>Pentesting y OSINT</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
-<strong>PYTHON</strong><br/>
-<sub>Automatización & IA</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
-<strong>NODE.JS</strong><br/>
-<sub>Backend & Scripts</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=bash" width="50"/><br/>
-<strong>BASH</strong><br/>
-<sub>Scripting & Sistema</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=android" width="50"/><br/>
-<strong>ANDROID DEV</strong><br/>
-<sub>Modding & KernelSU</sub>
-</td>
-</tr>
-</table>
-
-### 🛡️ ARSENAL DE MODDING & CIBERSEGURIDAD
+---
+## 🛡️ ARSENAL CYBER (TERMUX & KALI PURPLE)
 ```bash
-┌─[root@luferos]─[~]
+┌─[root@luferos]─[~/operaciones]
 └──╼ # ls -la /cyber/herramientas/
-drwxr-xr-x  termux-osint    ◈ Scripts de recolección de inteligencia
-drwxr-xr-x  magisk-kernelsu ◈ Modificación profunda de Android (Root)
-drwxr-xr-x  shizuku         ◈ Interacción avanzada con APIs de Android
-drwxr-xr-x  wireshark       ◈ Analizador de Protocolos de Red  
-drwxr-xr-x  nmap            ◈ Descubrimiento y Seguridad de Red
-drwxr-xr-x  paper-spigot    ◈ Gestión de servidores de Minecraft
-drwxr-xr-x  gemini-api      ◈ Integración de IA en flujos de trabajo
-div>
-🌐 CONECTAR CON LA MATRIZ
+drwxr-xr-x  magisk-kernelsu ◈ Modding avanzado y control Root
+drwxr-xr-x  lumi-network    ◈ Nodos y gestión del servidor Minecraft
+drwxr-xr-x  scripts-osint   ◈ Recolección de inteligencia y escaneo
+-rwxr-xr-x  force-dns.sh    ◈ Enrutamiento de tráfico seguro
+-rwxr-xr-x  dexoat-opt.sh   ◈ Optimizador de rendimiento de sistema
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LuferOS&style=for-the-badge&color=00FF41&label=CONEXIONES+MATRIZ&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=LuferOS&style=for-the-badge&color=00FF41&label=CONEXIONES&labelColor=000000"/>
+"Pensamiento lógico, ejecución letal." 💚
 </div>
-🎮 ELEMENTOS INTERACTIVOS
-<div align="center">
-🔥 Estadísticas de Racha
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuferOS&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=39FF14&currStreakNum=39FF14&dates=8B949E&sideNums=39FF14"/>
-🏆 Logro Desbloqueado
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuferOS&theme=github_dark"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&text=◢%20ACCESO%20CONCEDIDO%20AL%20SISTEMA%20LUFEROS%20◤&fontSize=24&fontColor=00FF41&animation=twinkling&fontAlignY=70"/>
-"Analizando el código desde todos los ángulos posibles." 💚
