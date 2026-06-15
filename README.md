@@ -59,3 +59,18 @@ drwxr-xr-x  wireshark       ◈ Analizador de Protocolos de Red
 drwxr-xr-x  nmap            ◈ Descubrimiento y Seguridad de Red
 drwxr-xr-x  paper-spigot    ◈ Gestión de servidores de Minecraft
 drwxr-xr-x  gemini-api      ◈ Integración de IA en flujos de trabajo
+div>
+🌐 CONECTAR CON LA MATRIZ
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LuferOS&style=for-the-badge&color=00FF41&label=CONEXIONES+MATRIZ&labelColor=000000"/>
+</div>
+🎮 ELEMENTOS INTERACTIVOS
+<div align="center">
+🔥 Estadísticas de Racha
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuferOS&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=39FF14&currStreakNum=39FF14&dates=8B949E&sideNums=39FF14"/>
+🏆 Logro Desbloqueado
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuferOS&theme=github_dark"/>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&text=◢%20ACCESO%20CONCEDIDO%20AL%20SISTEMA%20LUFEROS%20◤&fontSize=24&fontColor=00FF41&animation=twinkling&fontAlignY=70"/>
+"Analizando el código desde todos los ángulos posibles." 💚
